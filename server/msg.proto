@@ -1,0 +1,31 @@
+message index{
+	required choice_type choice = 1;
+	optional login login_info = 8;
+	optional chat chat_data = 9;
+	optional query query_limits = 10;
+}
+
+enum choice_type{
+	LOGIN = 11;
+	CHAT = 12;
+	QUERY = 13;
+}
+
+message login{
+	required string username = 2;
+}
+
+message chat{
+	optional int32 id = 14;
+	required string text = 3;
+}
+
+message query{
+	optional int32 idmin = 4;
+	optional int32 idmax = 5;
+	repeated chat query_data = 15;
+}
+
+message status{
+	required int32 value = 6;
+}

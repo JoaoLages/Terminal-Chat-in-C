@@ -1,0 +1,162 @@
+server turned on Tue May 19 11:37:20 2015
+a client connected on Tue May 19 11:38:24 2015
+user tiago has logged in on Tue May 19 11:38:49 2015
+message id(1) sent by tiago on Tue May 19 11:39:09 2015
+a client connected on Tue May 19 11:39:28 2015
+a client connected on Tue May 19 11:39:28 2015
+user tiago has logged in on Tue May 19 11:40:02 2015
+a client connected on Tue May 19 11:40:22 2015
+user fabio has logged in on Tue May 19 11:40:30 2015
+message id(1) sent by fabio on Tue May 19 11:40:50 2015
+message id(2) sent by tiago on Tue May 19 11:40:59 2015
+message id(3) sent by fabio on Tue May 19 11:41:06 2015
+user fabio requested chats between id(2) and id(3) on Tue May 19 11:41:23 2015
+user tiago requested chats between id(3) and id(4) on Tue May 19 11:41:47 2015
+server turned on Tue May 19 11:46:03 2015
+a client connected on Tue May 19 11:46:21 2015
+user tiago has logged in on Tue May 19 11:46:27 2015
+server turned off on Tue May 19 11:46:36 2015
+server turned on Tue May 19 11:48:53 2015
+a client connected on Tue May 19 11:49:09 2015
+user tiago has logged in on Tue May 19 11:49:16 2015
+a client connected on Tue May 19 11:49:25 2015
+user joao has logged in on Tue May 19 11:49:36 2015
+message id(1) sent by joao on Tue May 19 11:49:39 2015
+message id(2) sent by tiago on Tue May 19 11:49:44 2015
+message id(3) sent by tiago on Tue May 19 11:49:47 2015
+server crashed on Tue May 19 11:50:06 2015
+a client connected on Tue May 19 11:50:06 2015
+a client connected on Tue May 19 11:50:06 2015
+a client connected on Tue May 19 11:50:06 2015
+user tiago has logged in on Tue May 19 11:50:32 2015
+user joao has logged in on Tue May 19 11:50:40 2015
+message id(1) sent by tiago on Tue May 19 11:50:54 2015
+message id(2) sent by joao on Tue May 19 11:50:59 2015
+user joao requested chats between id(1) and id(10000) on Tue May 19 11:51:04 2015
+user joao has disconnected on Tue May 19 11:51:24 2015
+a client connected on Tue May 19 11:51:30 2015
+user joao has logged in on Tue May 19 11:51:37 2015
+message id(3) sent by joao on Tue May 19 11:51:41 2015
+server turned off on Tue May 19 11:52:01 2015
+server crashed on Tue May 19 11:52:01 2015
+server turned on Tue May 19 13:04:12 2015
+a client connected on Tue May 19 13:04:46 2015
+user tiagp has logged in on Tue May 19 13:05:03 2015
+server crashed on Tue May 19 13:05:22 2015
+a client connected on Tue May 19 13:05:22 2015
+a client connected on Tue May 19 13:05:22 2015
+user not logged in has disconnected on Tue May 19 13:12:33 2015
+server turned off on Tue May 19 13:12:59 2015
+server crashed on Tue May 19 13:12:59 2015
+server turned on Tue May 19 13:13:15 2015
+a client connected on Tue May 19 13:13:29 2015
+a client connected on Tue May 19 13:13:38 2015
+a client connected on Tue May 19 13:13:38 2015
+user not logged in has disconnected on Tue May 19 13:15:41 2015
+server turned off on Tue May 19 13:15:51 2015
+server turned on Tue May 19 13:16:17 2015
+a client connected on Tue May 19 13:16:24 2015
+server crashed on Tue May 19 13:16:39 2015
+a client connected on Tue May 19 13:16:39 2015
+a client connected on Tue May 19 13:16:39 2015
+user not logged in has disconnected on Tue May 19 13:17:45 2015
+server turned off on Tue May 19 13:17:49 2015
+server crashed on Tue May 19 13:17:49 2015
+server turned on Tue May 19 13:18:03 2015
+a client connected on Tue May 19 13:18:16 2015
+server crashed on Tue May 19 13:18:30 2015
+a client connected on Tue May 19 13:18:30 2015
+a client connected on Tue May 19 13:18:30 2015
+user tiadf has logged in on Tue May 19 13:18:55 2015
+a client connected on Tue May 19 13:19:12 2015
+server crashed on Tue May 19 13:19:24 2015
+a client connected on Tue May 19 13:19:24 2015
+a client connected on Tue May 19 13:19:24 2015
+a client connected on Tue May 19 13:19:24 2015
+user 123 has logged in on Tue May 19 13:19:56 2015
+user 321 has logged in on Tue May 19 13:20:02 2015
+server crashed on Tue May 19 13:20:12 2015
+a client connected on Tue May 19 13:20:12 2015
+a client connected on Tue May 19 13:20:12 2015
+a client connected on Tue May 19 13:20:12 2015
+server turned on Sat May 23 01:02:01 2015
+user A has logged in on Sat May 23 01:03:47 2015
+message id(1) sent by A on Sat May 23 01:04:04 2015
+message id(2) sent by A on Sat May 23 01:04:06 2015
+user A requested chats between id(1) and id(9999) on Sat May 23 01:04:10 2015
+user A requested chats between id(1) and id(9999) on Sat May 23 01:04:14 2015
+user A requested chats between id(1) and id(9) on Sat May 23 01:04:22 2015
+user A has disconnected on Sat May 23 01:05:01 2015
+server turned off on Sat May 23 01:05:28 2015
+server crashed on Sat May 23 01:05:28 2015
+server turned on Sat May 23 01:05:54 2015
+user A has logged in on Sat May 23 01:06:01 2015
+message id(1) sent by A on Sat May 23 01:06:03 2015
+user A has disconnected on Sat May 23 01:06:05 2015
+server turned on Sat May 23 01:09:46 2015
+user B has logged in on Sat May 23 01:09:52 2015
+server turned off on Sat May 23 01:10:07 2015
+server crashed on Sat May 23 01:10:07 2015
+server turned on Sat May 23 01:46:10 2015
+user A has logged in on Sat May 23 01:46:17 2015
+message id(1) sent by A on Sat May 23 01:46:19 2015
+message id(2) sent by A on Sat May 23 01:46:21 2015
+message id(3) sent by A on Sat May 23 01:46:23 2015
+message id(4) sent by A on Sat May 23 01:46:26 2015
+user A requested chats between id(1) and id(5) on Sat May 23 01:46:29 2015
+user A requested chats between id(1) and id(9999) on Sat May 23 01:46:38 2015
+user A requested chats between id(1) and id(3) on Sat May 23 01:46:41 2015
+user A requested chats between id(1) and id(1) on Sat May 23 01:46:43 2015
+user A requested chats between id(1) and id(3) on Sat May 23 01:46:45 2015
+user A requested chats between id(9) and id(9) on Sat May 23 01:46:58 2015
+user A has disconnected on Sat May 23 01:47:02 2015
+server turned off on Sat May 23 01:47:13 2015
+server crashed on Sat May 23 01:47:13 2015
+server turned on Sun May 24 01:51:17 2015
+user A has logged in on Sun May 24 01:51:26 2015
+message id(1) sent by A on Sun May 24 01:51:28 2015
+message id(2) sent by A on Sun May 24 01:51:31 2015
+message id(3) sent by A on Sun May 24 01:51:33 2015
+message id(4) sent by A on Sun May 24 01:51:35 2015
+user A requested chats between id(1) and id(5) on Sun May 24 01:51:37 2015
+user A requested chats between id(1) and id(4) on Sun May 24 01:51:47 2015
+message id(5) sent by A on Sun May 24 01:51:52 2015
+user A requested chats between id(1) and id(5) on Sun May 24 01:51:55 2015
+message id(6) sent by A on Sun May 24 01:52:17 2015
+message id(7) sent by A on Sun May 24 01:52:18 2015
+message id(8) sent by A on Sun May 24 01:52:20 2015
+user A requested chats between id(1) and id(9) on Sun May 24 01:52:23 2015
+message id(9) sent by A on Sun May 24 01:52:27 2015
+message id(10) sent by A on Sun May 24 01:52:29 2015
+message id(11) sent by A on Sun May 24 01:52:31 2015
+message id(12) sent by A on Sun May 24 01:52:33 2015
+user A requested chats between id(1) and id(19) on Sun May 24 01:52:40 2015
+user A has disconnected on Sun May 24 01:52:43 2015
+server turned on Sun May 24 01:52:46 2015
+user A has logged in on Sun May 24 01:52:52 2015
+message id(1) sent by A on Sun May 24 01:52:55 2015
+message id(2) sent by A on Sun May 24 01:52:57 2015
+message id(3) sent by A on Sun May 24 01:52:59 2015
+message id(4) sent by A on Sun May 24 01:53:00 2015
+message id(5) sent by A on Sun May 24 01:53:02 2015
+user A requested chats between id(1) and id(5) on Sun May 24 01:53:04 2015
+user A requested chats between id(1) and id(9) on Sun May 24 01:53:07 2015
+user A requested chats between id(1) and id(9999) on Sun May 24 01:53:16 2015
+user B has logged in on Sun May 24 01:53:35 2015
+message id(6) sent by B on Sun May 24 01:53:38 2015
+message id(7) sent by B on Sun May 24 01:53:40 2015
+message id(8) sent by B on Sun May 24 01:53:42 2015
+message id(9) sent by B on Sun May 24 01:53:45 2015
+user B requested chats between id(1) and id(10) on Sun May 24 01:53:53 2015
+message id(10) sent by B on Sun May 24 01:54:06 2015
+user B requested chats between id(1) and id(99) on Sun May 24 01:54:11 2015
+server crashed on Sun May 24 01:54:45 2015
+server turned on Sun May 24 01:54:45 2015
+user A has logged in on Sun May 24 01:54:49 2015
+user B has logged in on Sun May 24 01:54:55 2015
+server crashed on Sun May 24 01:55:04 2015
+server turned on Sun May 24 01:55:04 2015
+user B has logged in on Sun May 24 01:55:08 2015
+user C has logged in on Sun May 24 01:55:12 2015
+user C has disconnected on Sun May 24 01:55:16 2015
+user B has disconnected on Sun May 24 01:55:18 2015
